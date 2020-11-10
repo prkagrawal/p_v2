@@ -1,6 +1,6 @@
 
 <!-- prettier-ignore -->
-<!-- [![Build Status](https://travis-ci.com/prkagrawal/p_v2.svg?branch=master)](https://travis-ci.com/prkagrawal/p_v2) -->
+[![Build Status](https://travis-ci.com/prkagrawal/p_v2.svg?branch=master)](https://travis-ci.com/prkagrawal/p_v2)
 
 ## Getting Started
 
