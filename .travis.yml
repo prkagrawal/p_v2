@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - 14.0.0
+
+cache:
+  # cache npm modules
+  directories:
+    - ~/.npm
+  override:
+    - npm ci
+
+install:
+  - npm ci
+
+script:
+  - npm run test
+  - npm run build
