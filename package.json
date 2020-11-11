@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "jest"
+    "test": "jest",
+    "test:watch":"jest --watch",
+    "format": "prettier --write \"**/*.{js,jsx,css,scss}\""
   },
   "dependencies": {
     "next": "10.0.1",
