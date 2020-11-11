@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from "next/head";
 // import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -10,5 +10,5 @@ export default function Home() {
 
       <h1>Welcome</h1>
     </div>
-  )
+  );
 }
