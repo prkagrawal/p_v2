@@ -6,12 +6,17 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "jest"
+    "test": "jest",
+    "test:watch":"jest --watch",
+    "format": "prettier --write \"**/*.{js,jsx,css,scss}\""
   },
   "dependencies": {
     "next": "10.0.1",
+    "normalize.css": "^8.0.1",
+    "prop-types": "^15.7.2",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.29.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.5",

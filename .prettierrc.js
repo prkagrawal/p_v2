@@ -10,4 +10,13 @@ module.exports = {
   bracketSpacing: true,
   endOfLine: "lf",
   htmlWhitespaceSensitivity: "css",
+
+  overrides: [
+    {
+      files: "*.{css,scss}",
+      options: {
+        parser: "css",
+      },
+    },
+  ],
 };
