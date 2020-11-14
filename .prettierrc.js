@@ -13,7 +13,7 @@ module.exports = {
 
   overrides: [
     {
-      files: "*.{css,scss}",
+      files: "**.{css,scss}",
       options: {
         parser: "css",
       },
