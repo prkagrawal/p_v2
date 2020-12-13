@@ -2,7 +2,6 @@ const ProjectsStyles = () => {
   return (
     <style jsx={"true"}>{`
       .container-projects {
-        background-color: var(--bg);
       }
     `}</style>
   );

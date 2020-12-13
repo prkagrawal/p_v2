@@ -2,7 +2,6 @@ const SkillsStyles = () => {
   return (
     <style jsx={"true"}>{`
       .container-skills {
-        background-color: var(--bg);
       }
     `}</style>
   );

@@ -2,7 +2,6 @@ const AboutStyles = () => {
   return (
     <style jsx={"true"}>{`
       .container-about {
-        background-color: var(--bg);
       }
     `}</style>
   );

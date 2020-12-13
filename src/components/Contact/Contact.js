@@ -2,7 +2,6 @@ const ContactStyles = () => {
   return (
     <style jsx={"true"}>{`
       .container-contact {
-        background-color: var(--bg);
       }
     `}</style>
   );

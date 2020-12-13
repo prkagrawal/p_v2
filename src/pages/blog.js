@@ -2,7 +2,7 @@ import Layout from "../components/Layout/Layout";
 
 function Blog() {
   return (
-    <Layout title={"404"}>
+    <Layout title={"blog"}>
       <h1>Blog</h1>
     </Layout>
   );

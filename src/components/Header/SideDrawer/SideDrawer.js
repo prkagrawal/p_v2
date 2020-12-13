@@ -75,13 +75,13 @@ const sideDrawer = (props) => {
           <a href="/about">About</a>
         </li>
         <li>
-          <a href="/login">Projects</a>
+          <a href="/projects">Projects</a>
         </li>
         <li>
-          <a href="/register">Blog</a>
+          <a href="/blogs">Blog</a>
         </li>
         <li>
-          <a href="/register">Contact</a>
+          <a href="/contact">Contact</a>
         </li>
       </ul>
       <SideDrawerStyles />

@@ -94,16 +94,18 @@
 
 const theme = {
   colors: {
-    text: "#111", // Body foreground color
-    background: "#191919", // 	Body background color
-    primary: "tomato", // Primary brand color for links, buttons, etc.
-    secondary: "#3f3f3f", // A secondary brand color for alternative styling
-    accent: "#3f3f3f", // A contrast color for emphasizing UI
+    text: "#fff", // Body foreground color
+    background: "#121212", // 	Body background color
+    primary: "BB86FC", // Primary brand color for links, buttons, etc.
+    secondary: "#03DAC6", // A secondary brand color for alternative styling
+    accent: "e43f5a", // A contrast color for emphasizing UI
     highlight: "#222", // A background color for highlighting text
     muted: "#e0e0e0", // 	A faint color for backgrounds, borders, and accents that do not require high contrast with the background color
+    error: "#CF6679",
     highlight: "#9f9f9f",
     gray: "#6c6c6c",
     bg: "#191919",
+    cardColor: "#303030",
     primaryColor: "#6D83F2",
     secondaryColor: "#232323",
     accentColor: "#303030",
