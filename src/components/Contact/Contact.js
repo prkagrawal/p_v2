@@ -10,6 +10,7 @@ const ContactStyles = () => {
         flex-direction: column;
         align-items: center;
         background-color: #eee;
+        background-color: var(--bg); /*valuse from theme*/
       }
       .contact-form {
         width: 100%;
@@ -54,7 +55,7 @@ const ContactStyles = () => {
 
 const Contact = () => {
   return (
-    <div className={"container-contact"}>
+    <div className={"contact-container"}>
       <h3>Contact</h3>
       <form className={"contact-form"} onSubmit={(e) => onSubmit(e)}>
         <div className={"formgroup"}>
