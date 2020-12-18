@@ -94,7 +94,7 @@
 
 const theme = {
   colors: {
-    text: "#fff", // Body foreground color
+    text: "#fff", // Body foformround color
     background: "#121212", // 	Body background color
     primary: "BB86FC", // Primary brand color for links, buttons, etc.
     secondary: "#03DAC6", // A secondary brand color for alternative styling

@@ -1,4 +1,4 @@
-// import '../styles/globals.css'
+import "../styles/globals.css";
 import { ThemeProvider } from "theme-ui";
 import theme from "../ui/Theme";
 
